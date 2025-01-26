@@ -1,7 +1,7 @@
 {
   "name": "finpedia",
   "version": "1.0.0",
-  "description": "Retail collaboration platform",
+  "description": "Investor/Analyst collaboration platform",
   "main": "index.js",
   "type": "module",
   "scripts": {
